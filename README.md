@@ -1,7 +1,6 @@
 # About Me
 
-I'm a Computer Engineer who codes mostly for myself, but you might find something useful here.  
-Learn more about me on [my website](https://franzpedd.me/).
+I'm a Computer Engineer who codes mostly for myself, but you might find something useful here.
 
 ---
 
